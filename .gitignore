@@ -69,3 +69,6 @@ _release/
 # reason
 *.install
 .merlin
+
+# Mac
+.DS_Store
